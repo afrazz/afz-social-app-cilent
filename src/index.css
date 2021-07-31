@@ -1,0 +1,33 @@
+html {
+  scroll-behavior: smooth !important;
+}
+
+a {
+  color: rgba(0, 0, 0, 0.87);
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+body {
+  scroll-behavior: smooth !important;
+  margin: 0;
+  font-family: 'Open Sans', sans-serif;
+  color: rgba(0, 0, 0, 0.87);
+  background-color: #fafafa;
+}
+
+.tc {
+  text-align: center;
+}
+
+.MuiDropzonePreviewList-image {
+  width: 300px !important;
+  height: 300px !important;
+}
+
+.makeStyles-popper-46 {
+  z-index: 10000 !important;
+}
